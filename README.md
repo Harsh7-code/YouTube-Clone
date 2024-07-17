@@ -1,6 +1,6 @@
 # YouTube Clone
 
-![YouTube Clone Screenshot](C:\Users\91941\Desktop\GitHub Repositories\YouTube Clone\Screenshot 2024-07-17 230437)
+![Screenshot 2024-07-17 230437](https://github.com/user-attachments/assets/cbb110e2-0a98-40d9-8d36-151ea882bcdb)
 
 ## Table of Contents
 
